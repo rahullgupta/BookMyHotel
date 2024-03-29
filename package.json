@@ -10,7 +10,7 @@
     "express": "^4.19.2",
     "loader": "^2.1.1",
     "moment": "^2.29.4",
-    "mongoose": "^7.0.3",
+    "mongoose": "^7.6.10",
     "mongoose-type-email": "^1.1.2",
     "nodemailer": "^6.9.1",
     "react-id-generator": "^3.0.2",
